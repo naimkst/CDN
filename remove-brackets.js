@@ -1,4 +1,5 @@
 (function () {
+  console.log("In.....");
   function cleanK3Brackets() {
     document.querySelectorAll("*").forEach((el) => {
       if (
